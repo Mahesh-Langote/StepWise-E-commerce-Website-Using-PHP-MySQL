@@ -46,5 +46,4 @@ Contributions are welcome! If you find issues or want to enhance the project, fe
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-© 2023 StepWise. All Rights Reserved.
+ 
