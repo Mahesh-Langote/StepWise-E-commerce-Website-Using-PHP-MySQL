@@ -43,7 +43,4 @@ Welcome to the StepWise E-commerce website project. This web application provide
 
 ## Contributing
 Contributions are welcome! If you find issues or want to enhance the project, feel free to submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
  
